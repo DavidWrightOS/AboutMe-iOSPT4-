@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = .blue
         self.view.tintColor = .green
+        self.view.backgroundColor = .red
     }
 
 
